@@ -1,4 +1,4 @@
 ### Some thoughts for this problem:
 ```
-This problem has tag **heap**, which means we need to use heapify methods to solve the problem
+This problem has tag *heap*, which means we need to use heapify methods to solve the problem
 ```
