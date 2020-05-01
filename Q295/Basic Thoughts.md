@@ -4,7 +4,7 @@ This problem has tag "heap", which means we need to use heapify methods to solve
 ```
 
 ##### Heap:
-* Heap is a data structure which does *not* fully sort the list
+* Heap is a data structure which does _not_ fully sort the list
 * the advantage of heap is that we can retrieve the max or min from a heapified list in O(1)
 
 ##### Median:
