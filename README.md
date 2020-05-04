@@ -6,4 +6,4 @@ Leetcode solution by myself
 ###### 2. [Question 297: Serialize and Deserialize Binary Tree (Hard)](https://github.com/JiananDing0/Leetcode_study/tree/master/Q297)
 
 ### Array problems:
-###### 1. [Question 11: Container With Most Water](https://github.com/JiananDing0/Leetcode_study/tree/master/Q11)
+###### 1. [Question 11: Container With Most Water (Medium)](https://github.com/JiananDing0/Leetcode_study/tree/master/Q11)
